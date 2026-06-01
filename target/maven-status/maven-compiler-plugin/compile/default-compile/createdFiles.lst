@@ -1,0 +1,5 @@
+com/example/model/MatchedEvents.class
+com/example/model/PaymentEvent.class
+com/example/model/ExpectedEvent.class
+com/example/StreamMatchingJob.class
+com/example/service/StreamMatchingOperator.class
