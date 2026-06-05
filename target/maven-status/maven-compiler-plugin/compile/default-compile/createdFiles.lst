@@ -1,5 +1,5 @@
-com/example/model/MatchedEvents.class
-com/example/model/PaymentEvent.class
-com/example/model/ExpectedEvent.class
-com/example/StreamMatchingJob.class
-com/example/service/StreamMatchingOperator.class
+com/mintuk/streaming/StreamMatchingJob.class
+com/mintuk/streaming/model/PaymentEvent.class
+com/mintuk/streaming/model/ExpectedEvent.class
+com/mintuk/streaming/service/StreamMatchingOperator.class
+com/mintuk/streaming/model/MatchedEvents.class

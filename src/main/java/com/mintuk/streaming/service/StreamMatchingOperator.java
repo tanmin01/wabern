@@ -1,8 +1,8 @@
-package com.example.service;
+package com.mintuk.streaming.service;
 
-import com.example.model.ExpectedEvent;
-import com.example.model.PaymentEvent;
-import com.example.model.MatchedEvents;
+import com.mintuk.streaming.model.ExpectedEvent;
+import com.mintuk.streaming.model.PaymentEvent;
+import com.mintuk.streaming.model.MatchedEvents;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

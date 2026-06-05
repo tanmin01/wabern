@@ -112,7 +112,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.StreamMatchingJob</mainClass>
+                            <mainClass>com.mintuk.streaming.StreamMatchingJob</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,9 +1,9 @@
-package com.example;
+package com.mintuk.streaming;
 
-import com.example.model.ExpectedEvent;
-import com.example.model.PaymentEvent;
-import com.example.model.MatchedEvents;
-import com.example.service.StreamMatchingOperator;
+import com.mintuk.streaming.model.ExpectedEvent;
+import com.mintuk.streaming.model.PaymentEvent;
+import com.mintuk.streaming.model.MatchedEvents;
+import com.mintuk.streaming.service.StreamMatchingOperator;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
