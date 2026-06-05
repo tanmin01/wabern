@@ -1,0 +1,4 @@
+com/mintuk/streaming/model/MatchedEventsTest.class
+com/mintuk/streaming/model/ExpectedEventTest.class
+com/mintuk/streaming/service/StreamMatchingOperatorTest.class
+com/mintuk/streaming/model/PaymentEventTest.class
